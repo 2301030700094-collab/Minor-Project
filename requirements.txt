@@ -1,0 +1,4 @@
+Flask
+matplotlib
+fpdf2
+Werkzeug
